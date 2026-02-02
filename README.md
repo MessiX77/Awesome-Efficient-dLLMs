@@ -20,6 +20,17 @@
 </p>
 
 
+## 📖 News 🔥🔥
+<div id="news"></div
+>
+
+- [2026-02-02]: 🤗 We update the ICLR 2026 accepted papers!
+
+- [2026-01-26]: 🤗 Our [first version paper](https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey?__cf_chl_rt_tk=N3oFKQWmtIx7d0qLM1RU8W3qSfdoh8IeoOEnMxUrQOY-1770035362-1.0.1.1-19KAjC_KEoeeixwFNFCEOpPpoUoyKhAujSRxSu9B3.A) is available!
+
+- [2026-01-23]: 🤗 We release the repository!
+
+
 ## 🤖Contents
 
 - [Awesome-Efficient-dLLMs](#awesome-efficient-dllms)
