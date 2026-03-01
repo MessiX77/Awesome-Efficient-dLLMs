@@ -137,6 +137,7 @@
 |2025.10| Speculative Decoding - dLLM-AR Synergy |[**DiffuSpec**] DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding (@THU)| [[pdf]](https://arxiv.org/pdf/2510.02358) | |arXiv|
 |2025.12| Speculative Decoding - dLLM-AR Synergy |[**DEER**] DEER: Draft with Diffusion, Verify with Autoregressive Models (@THU)| [[pdf]](https://arxiv.org/pdf/2512.15176) | [[code]](https://github.com/czc726/DEER)![](https://img.shields.io/github/stars/czc726/DEER.svg?style=social) |arXiv|
 |2026.01| Speculative Decoding - dLLM-AR Synergy |[**DFlash**] DFlash: Block Diffusion for Flash Speculative Decoding (@UCSD)| | [[code]](https://github.com/z-lab/dflash)![](https://img.shields.io/github/stars/z-lab/dflash.svg?style=social) |GitHub|
+|2026.01| Speculative Decoding - dLLM-AR Synergy |[**DART**] DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference (@NJU)| [[pdf]](https://arxiv.org/abs/2601.19278) | [[code]](https://github.com/fvliang/DART)![](https://img.shields.io/github/stars/fvliang/DART.svg?style=social) |arxiv|
 
 
 
