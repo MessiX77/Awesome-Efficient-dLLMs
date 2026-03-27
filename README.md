@@ -65,6 +65,8 @@
 |2026.01| AR-to-block diffusion |[**Diffusion In Diffusion**] Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion (@Huawei)  | [[pdf]](https://arxiv.org/pdf/2601.13599) | |arXiv|
 |2025.09| MoE |[**LLaDA-MoE**] LLaDA-MoE: A Sparse MoE Diffusion Language Model (@Ant Group)  | [[pdf]](https://arxiv.org/pdf/2509.24389) |  |arXiv|
 |2025.12| Encoder-Decoder |[**E2D2**] Encoder-Decoder Diffusion Language Models for Efficient Training and Inference (@Cornell)  | [[pdf]](https://arxiv.org/pdf/2510.22852) | [[code]](https://github.com/kuleshov-group/e2d2) ![](https://img.shields.io/github/stars/kuleshov-group/e2d2.svg?style=social) |NeurIPS 2025|
+|2026.02| Scaling Law |[**Scaling Beyond MDLM**] Scaling Beyond Masked Diffusion Language Models (@NVIDIA)| [[pdf]](https://arxiv.org/pdf/2602.15014) | |arXiv|
+|2026.03| Training Paradigm |[**Mask Is What DLLM Needs**] Mask Is What DLLM Needs: A Masked Data Training Paradigm for Diffusion LLMs (@Huawei)| [[pdf]](https://arxiv.org/pdf/2603.15803) | |arXiv|
 
 
 ## 📙 Inference Acceleration | Parallel Decoding
@@ -90,6 +92,12 @@
 |2025.12| Heuristic Methods |[**CadLLM**] Improving the Throughput of Diffusion-based Large Language Models via a Training-Free Confidence-Aware Calibration (@Intel)| [[pdf]](https://arxiv.org/pdf/2512.07173) | |arXiv|
 |2025.12| Heuristic Methods |[**LoPA**] LoPA: Scaling dLLM Inference via Lookahead Parallel Decoding (@SJTU) | [[pdf]](https://arxiv.org/pdf/2512.16229) | [[code]](https://github.com/SJTU-DENG-Lab/LoPA)![](https://img.shields.io/github/stars/SJTU-DENG-Lab/LoPA?style=social)|arXiv|
 |2026.01| Heuristic Methods |[**Diffusion In Diffusion**] Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion (@Huawei)  | [[pdf]](https://arxiv.org/pdf/2601.13599) | |arXiv|
+|2026.01| Heuristic Methods |[**Order-Token Search**] Improving Diffusion Language Model Decoding through Joint Search in Generation Order and Token Space (@Stanford)| [[pdf]](https://arxiv.org/pdf/2601.20339) | |arXiv|
+|2026.01| Heuristic Methods |[**RDD**] Reversible Diffusion Decoding for Diffusion Language Models (@ZJU)| [[pdf]](https://arxiv.org/pdf/2602.00150) | |arXiv|
+|2026.02| Heuristic Methods |[**ReMix**] Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference (@SJTU)| [[pdf]](https://arxiv.org/pdf/2602.22868) | [[code]](https://github.com/Serpientw/ReMix-DLLM)![](https://img.shields.io/github/stars/Serpientw/ReMix-DLLM?style=social) |CVPR2026| 
+|2026.02| Heuristic Methods |[**Info-Gain Sampler**] Improving Sampling for Masked Diffusion Models via Information Gain (@CMU)| [[pdf]](https://arxiv.org/pdf/2602.18176) | |arXiv|
+|2026.03| Heuristic Methods |[**DOS**] DOS: Dependency-Oriented Sampler for Masked Diffusion Language Models (@SEU)| [[pdf]](https://arxiv.org/pdf/2603.15340) | |arXiv|
+|2026.03| Heuristic Methods |[**Confidence-Based Decoding**] Confidence-Based Decoding is Provably Efficient for Diffusion Language Models (@UMD)| [[pdf]](https://arxiv.org/pdf/2603.22248) | |arXiv|
 |2025.09| Learning-based Methods |[**dParallel**] dparallel: Learnable parallel decoding for dllms (@NUS) | [[pdf]](https://arxiv.org/pdf/2509.26488) | [[code]](https://github.com/czg1225/dParallel)![](https://img.shields.io/github/stars/czg1225/dParallel?style=social)| ICLR 2026|
 |2025.09| Learning-based Methods |[**LSD**] Learnable sampler distillation for discrete diffusion models (@UESTC) | [[pdf]](https://arxiv.org/pdf/2509.19962) | [[code]](https://github.com/feiyangfu/LSD)![](https://img.shields.io/github/stars/feiyangfu/LSD?style=social)|NeurIPS 2025|
 |2025.09| Learning-based Methods |[**ADJUST**] Enabling Approximate Joint Sampling in Diffusion LMs (@UT-Austin) | [[pdf]](https://arxiv.org/pdf/2509.22738) | |arXiv|
@@ -137,7 +145,7 @@
 |2025.10| Speculative Decoding - dLLM-AR Synergy |[**DiffuSpec**] DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding (@THU)| [[pdf]](https://arxiv.org/pdf/2510.02358) | |arXiv|
 |2025.12| Speculative Decoding - dLLM-AR Synergy |[**DEER**] DEER: Draft with Diffusion, Verify with Autoregressive Models (@THU)| [[pdf]](https://arxiv.org/pdf/2512.15176) | [[code]](https://github.com/czc726/DEER)![](https://img.shields.io/github/stars/czc726/DEER.svg?style=social) |arXiv|
 |2026.01| Speculative Decoding - dLLM-AR Synergy |[**DFlash**] DFlash: Block Diffusion for Flash Speculative Decoding (@UCSD)| | [[code]](https://github.com/z-lab/dflash)![](https://img.shields.io/github/stars/z-lab/dflash.svg?style=social) |GitHub|
-|2026.01| Speculative Decoding - dLLM-AR Synergy |[**DART**] DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference (@NJU)| [[pdf]](https://arxiv.org/abs/2601.19278) | [[code]](https://github.com/fvliang/DART)![](https://img.shields.io/github/stars/fvliang/DART.svg?style=social) |arxiv|
+|2026.01| Speculative Decoding - dLLM-AR Synergy |[**DART**] DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference (@NJU)| [[pdf]](https://arxiv.org/pdf/2601.19278) |[[code]](https://github.com/fvliang/DART)![](https://img.shields.io/github/stars/fvliang/DART.svg?style=social) |arXiv|
 
 
 
@@ -178,10 +186,12 @@
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
-|2025.10| Pre-training \& evaluation |[**dllm**] dLLM: Simple Diffusion Language Modeling (@UCB)|  |[[code]](https://github.com/ZHZisZZ/dllm)![](https://img.shields.io/github/stars/ZHZisZZ/dllm.svg?style=social) |GitHub|
+|2025.10| Pre-training \& evaluation |[**dllm**] dLLM: Simple Diffusion Language Modeling (@UCB)| [[pdf]](https://arxiv.org/pdf/2602.22661) |[[code]](https://github.com/ZHZisZZ/dllm)![](https://img.shields.io/github/stars/ZHZisZZ/dllm.svg?style=social) |arXiv|
 |2025.10| Evaluation |[**Latency**] How Efficient Are Diffusion Language Models? A Critical Examination of Efficiency Evaluation Practices (@RUC)| [[pdf]](https://arxiv.org/pdf/2510.18480) | |arXiv|
 |2025.10| Evaluation |[**ParallelBench**] ParallelBench: Understanding the Trade-offs of Parallel Decoding in Diffusion LLMs (@FuriosaAI)| [[pdf]](https://arxiv.org/pdf/2510.04767) |[[code]](https://github.com/furiosa-ai/ParallelBench)![](https://img.shields.io/github/stars/furiosa-ai/ParallelBench.svg?style=social) |ICLR2026|
 |2025.12| Post-training |[**DiRL**] An Efficient Post-Training Framework for Diffusion Language Models (@FDU)| [[pdf]](https://arxiv.org/pdf/2512.22234) |[[code]](https://github.com/OpenMOSS/DiRL)![](https://img.shields.io/github/stars/OpenMOSS/DiRL.svg?style=social) |arXiv|
+|2026.03| Post-training |[**StableDRL**] Stabilizing Reinforcement Learning for Diffusion Language Models (@CUHK-SZ)| [[pdf]](https://arxiv.org/pdf/2603.06743) | |arXiv|
+|2026.03| Evaluation |[**AR vs MDLM**] Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison (@Independent)| [[pdf]](https://arxiv.org/pdf/2603.22075) |[[code]](https://github.com/caiovicentino/arche)![](https://img.shields.io/github/stars/caiovicentino/arche.svg?style=social) |arXiv|
 |2025.10| Serving |[**dInfer**] dInfer: An Efficient Inference Framework for Diffusion Language Models (@Ant)| [[pdf]](https://arxiv.org/pdf/2510.08666) |[[code]](https://github.com/inclusionAI/dInferL)![](https://img.shields.io/github/stars/inclusionAI/dInfer.svg?style=social) |arXiv|
 |2025.12| Serving |[**dLLM-Serve**] Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving (@Virginia Tech)| [[pdf]](https://arxiv.org/pdf/2512.17077) |[[code]](https://github.com/chosen-ox/dLLM-Serve)![](https://img.shields.io/github/stars/chosen-ox/dLLM-Serve.svg?style=social) |arXiv|
 |2025.12| Serving |[**SGLang**] Power Up Diffusion LLMs: Day‑0 Support for LLaDA 2.0 (@SGLang)| [[blog]](https://lmsys.org/blog/2025-12-19-diffusion-llm/) |[[code]](https://github.com/sgl-project/sglang)![](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social) |arXiv|
@@ -199,6 +209,7 @@
 |2025.11| Inference Stage |[**D3ToM**] D3ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs (@SJTU)| [[pdf]](https://arxiv.org/pdf/2511.12280) |[[code]](https://github.com/bcmi/D3ToM-Diffusion-MLLM)![](https://img.shields.io/github/stars/bcmi/D3ToM-Diffusion-MLLM.svg?style=social) |AAAI 2026|
 |2025.11| Inference Stage |[**Token-Pruning**] A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models (@NTU)| [[pdf]](https://arxiv.org/pdf/2511.15098) | |arXiv|
 |2025.12| Inference Stage |[**Sparse-LaViDa**] Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models (@Adobe)| [[pdf]](https://arxiv.org/pdf/2512.14008) | |arXiv|
+|2026.02| Inference Stage |[**FreeCorrection**] Training-Free Self-Correction for Multimodal Masked Diffusion Models (@UCLA)| [[pdf]](https://arxiv.org/pdf/2602.02927) |[[code]](https://github.com/huge123/FreeCorrection)![](https://img.shields.io/github/stars/huge123/FreeCorrection.svg?style=social) |arXiv|
 
 
 
