@@ -1,10 +1,10 @@
 # Awesome-Efficient-dLLMs
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/FelixMessi/Awesome-Efficient-dLLMs)
-[![Stars](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs.svg?style=social)](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs.svg?style=social)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/MessiX77/Awesome-Efficient-dLLMs)
+[![Stars](https://img.shields.io/github/stars/MessiX77/Awesome-Efficient-dLLMs.svg?style=social)](https://img.shields.io/github/stars/MessiX77/Awesome-Efficient-dLLMs.svg?style=social)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
-[![PDF](https://img.shields.io/badge/Paper-PDF-pdf.svg)](https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf)
+[![PDF](https://img.shields.io/badge/Paper-PDF-pdf.svg)](https://github.com/MessiX77/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf)
 [![Paper](https://img.shields.io/badge/Authorea-Preprint-turquoise.svg)](https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey)
 
 
@@ -23,6 +23,8 @@
 ## 📖 News 🔥🔥
 <div id="news"></div
 >
+
+- [2026-04-24]: 🚀 We have migrated this repository to [MessiX77](https://github.com/MessiX77/Awesome-Efficient-dLLMs). Please star and follow the new repo!
 
 - [2026-02-02]: 🤗 We update the ICLR 2026 accepted papers!
 
@@ -130,7 +132,7 @@
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
-|2025.08| Quantization |[**QDLM**] Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs (@CASIA)| [[pdf]](https://arxiv.org/pdf/2508.14896) |[[code]](https://github.com/FelixMessi/QDLM)![](https://img.shields.io/github/stars/FelixMessi/QDLM.svg?style=social) |arXiv|
+|2025.08| Quantization |[**QDLM**] Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs (@CASIA)| [[pdf]](https://arxiv.org/pdf/2508.14896) |[[code]](https://github.com/MessiX77/QDLM)![](https://img.shields.io/github/stars/MessiX77/QDLM.svg?style=social) |arXiv|
 |2025.08| Quantization |[**DLLMQuant**] DLLMQuant: Quantizing Diffusion-based Large Language Models (@Houmo)| [[pdf]](https://arxiv.org/pdf/2508.14896) | |arXiv|
 |2025.09| Quantization |[**Quant-dLLM**] Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models (@SJTU)| [[pdf]](https://arxiv.org/pdf/2510.03274) |[[code]](https://github.com/ZTA2785/Quant-dLLM)![](https://img.shields.io/github/stars/ZTA2785/Quant-dLLM.svg?style=social) |ICLR 2026|
 |2025.06| Distillation |[**DLM-One**] DLM-One: Diffusion Language Models for One-Step Sequence Generation (@UTAustin)| [[pdf]](https://arxiv.org/pdf/2506.00290) | |arXiv|
