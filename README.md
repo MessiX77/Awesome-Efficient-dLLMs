@@ -24,6 +24,8 @@
 <div id="news"></div
 >
 
+- [2026-08-21]: 🎉 Our survey has been accepted to **EMNLP 2026 Findings**!
+
 - [2026-04-24]: 🚀 We have migrated this repository to [MessiX77](https://github.com/MessiX77/Awesome-Efficient-dLLMs). Please star and follow the new repo!
 
 - [2026-02-02]: 🤗 We update the ICLR 2026 accepted papers!
