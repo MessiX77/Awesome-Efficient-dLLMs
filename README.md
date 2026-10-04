@@ -109,6 +109,7 @@
 |2026.01| Heuristic Methods |[**RCD**] Residual Context Diffusion Language Models (@UC Berkeley)| [[pdf]](https://arxiv.org/pdf/2601.22954) | |ICML 2026|
 |2026.01| Heuristic Methods |[**Order-Token Search**] Improving Diffusion Language Model Decoding through Joint Search in Generation Order and Token Space (@Stanford)| [[pdf]](https://arxiv.org/pdf/2601.20339) | |arXiv|
 |2026.01| Heuristic Methods |[**RDD**] Reversible Diffusion Decoding for Diffusion Language Models (@ZJU)| [[pdf]](https://arxiv.org/pdf/2602.00150) | |arXiv|
+|2026.02| Heuristic Methods |[**dVoting**] dVoting: Fast Voting for dLLMs (@NUS)| [[pdf]](https://arxiv.org/pdf/2602.12153) |[[code]](https://github.com/fscdc/dVoting)![](https://img.shields.io/github/stars/fscdc/dVoting.svg?style=social) |arXiv|
 |2026.02| Heuristic Methods |[**Info-Gain Sampler**] Improving Sampling for Masked Diffusion Models via Information Gain (@CMU)| [[pdf]](https://arxiv.org/pdf/2602.18176) |[[code]](https://github.com/yks23/Information-Gain-Sampler)![](https://img.shields.io/github/stars/yks23/Information-Gain-Sampler.svg?style=social) |ICML 2026|
 |2026.03| Heuristic Methods |[**DOS**] DOS: Dependency-Oriented Sampler for Masked Diffusion Language Models (@SEU)| [[pdf]](https://arxiv.org/pdf/2603.15340) | |ACL 2026 Findings|
 |2026.03| Heuristic Methods |[**Confidence-Based Decoding**] Confidence-Based Decoding is Provably Efficient for Diffusion Language Models (@UMD)| [[pdf]](https://arxiv.org/pdf/2603.22248) | |arXiv|
