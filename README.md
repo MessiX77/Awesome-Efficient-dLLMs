@@ -72,6 +72,7 @@
 |2025.12| AR-to-block diffusion |[**NBDiff**] From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs (@Shanghai AI Lab)  | [[pdf]](https://arxiv.org/pdf/2512.06776) |[[code]](https://github.com/prajwal369/NBDiff) ![](https://img.shields.io/github/stars/prajwal369/NBDiff.svg?style=social) |arXiv|
 |2026.01| AR-to-block diffusion |[**Diffusion In Diffusion**] Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion (@Huawei)  | [[pdf]](https://arxiv.org/pdf/2601.13599) | |arXiv|
 |2025.09| MoE |[**LLaDA-MoE**] LLaDA-MoE: A Sparse MoE Diffusion Language Model (@Ant Group)  | [[pdf]](https://arxiv.org/pdf/2509.24389) |  |arXiv|
+|2026.05| MoE |[**dMoE**] dMoE: dLLMs with Learnable Block Experts (@NUS)  | [[pdf]](https://arxiv.org/pdf/2605.30876) |  |NeurIPS 2026|
 |2025.12| Encoder-Decoder |[**E2D2**] Encoder-Decoder Diffusion Language Models for Efficient Training and Inference (@Cornell)  | [[pdf]](https://arxiv.org/pdf/2510.22852) | [[code]](https://github.com/kuleshov-group/e2d2) ![](https://img.shields.io/github/stars/kuleshov-group/e2d2.svg?style=social) |NeurIPS 2025|
 |2026.02| Scaling Law |[**Scaling Beyond MDLM**] Scaling Beyond Masked Diffusion Language Models (@NVIDIA)| [[pdf]](https://arxiv.org/pdf/2602.15014) |[[code]](https://github.com/s-sahoo/scaling-dllms)![](https://img.shields.io/github/stars/s-sahoo/scaling-dllms.svg?style=social) |ICML 2026|
 |2026.03| Training Paradigm |[**Mask Is What DLLM Needs**] Mask Is What DLLM Needs: A Masked Data Training Paradigm for Diffusion LLMs (@Huawei)| [[pdf]](https://arxiv.org/pdf/2603.15803) | |arXiv|
@@ -108,6 +109,7 @@
 |2026.01| Heuristic Methods |[**RCD**] Residual Context Diffusion Language Models (@UC Berkeley)| [[pdf]](https://arxiv.org/pdf/2601.22954) | |ICML 2026|
 |2026.01| Heuristic Methods |[**Order-Token Search**] Improving Diffusion Language Model Decoding through Joint Search in Generation Order and Token Space (@Stanford)| [[pdf]](https://arxiv.org/pdf/2601.20339) | |arXiv|
 |2026.01| Heuristic Methods |[**RDD**] Reversible Diffusion Decoding for Diffusion Language Models (@ZJU)| [[pdf]](https://arxiv.org/pdf/2602.00150) | |arXiv|
+|2026.02| Heuristic Methods |[**dVoting**] dVoting: Fast Voting for dLLMs (@NUS)| [[pdf]](https://arxiv.org/pdf/2602.12153) |[[code]](https://github.com/fscdc/dVoting)![](https://img.shields.io/github/stars/fscdc/dVoting.svg?style=social) |arXiv|
 |2026.02| Heuristic Methods |[**Info-Gain Sampler**] Improving Sampling for Masked Diffusion Models via Information Gain (@CMU)| [[pdf]](https://arxiv.org/pdf/2602.18176) |[[code]](https://github.com/yks23/Information-Gain-Sampler)![](https://img.shields.io/github/stars/yks23/Information-Gain-Sampler.svg?style=social) |ICML 2026|
 |2026.03| Heuristic Methods |[**DOS**] DOS: Dependency-Oriented Sampler for Masked Diffusion Language Models (@SEU)| [[pdf]](https://arxiv.org/pdf/2603.15340) | |ACL 2026 Findings|
 |2026.03| Heuristic Methods |[**Confidence-Based Decoding**] Confidence-Based Decoding is Provably Efficient for Diffusion Language Models (@UMD)| [[pdf]](https://arxiv.org/pdf/2603.22248) | |arXiv|
