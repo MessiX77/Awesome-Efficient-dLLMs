@@ -17,7 +17,7 @@
 
 
 <p align="center">
-    <img src="images/taxonomy.png" width="100%" style="align:center;"/>
+    <img src="images/taxonomy_v2.png" width="100%" style="align:center;"/>
 </p>
 
 
