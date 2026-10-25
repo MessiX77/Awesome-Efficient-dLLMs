@@ -57,10 +57,6 @@
 
 
 
-**October 2026 update:** Paper and venue information was checked against the [EMNLP 2026 proceedings](https://aclanthology.org/events/emnlp-2026/) and [NeurIPS 2026 program](https://neurips.cc/Downloads/2026). New entries dated `2026.10` use the month of inclusion. Affiliation tags such as `(@HKU)` identify the first author’s first listed institution; unresolved entries remain untagged. See the [affiliation audit](docs/affiliation-audit-2026-10.md) for sources and pending checks.
-
-**Code availability (2026-10-25):** `[[code]]` links lead to public implementations or official release guides. `[[repo]]` with “no implementation yet” denotes a placeholder; `[[framework]]` denotes a shared framework whose paper-specific implementation has not been confirmed. See the [code audit](docs/code-audit-2026-10.md) for per-paper sources and unresolved links.
-
 ## 📙 Training Efficiency  
 
 <div id="Training"></div>  
