@@ -392,6 +392,7 @@
 |2026.10| Inference Stage |[**SaToMe**] SaToMe: Salience-Driven Token Merging for Omni-Capable Diffusion MLLMs (@NCEPU)| [[paper]](https://aclanthology.org/2026.findings-emnlp.1954/) | [[code]](https://github.com/sixun-liu/SaToMe) ![](https://img.shields.io/github/stars/sixun-liu/SaToMe.svg?style=social) |EMNLP 2026 Findings|
 |2026.10| Inference Stage |[**DRAMA**] DRAMA: Dissecting Attention Redundancy for Accelerating Multimodal Diffusion Large Language Models| [[paper]](https://neurips.cc/virtual/2026/poster/149812) | |NeurIPS 2026|
 |2026.10| Inference Stage |[**VRCD**] Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multimodal Large Language Models (@ZJU)| [[paper]](https://neurips.cc/virtual/2026/poster/148225) | [[code]](https://github.com/infiniteYuanyl/VRCD) ![](https://img.shields.io/github/stars/infiniteYuanyl/VRCD.svg?style=social) |NeurIPS 2026|
+|2026.10| Inference Stage |[**LOWN**] Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs (@KAIST)| [[pdf]](https://arxiv.org/pdf/2610.36671) |[[code]](https://github.com/hyeon9698/LOWN)![](https://img.shields.io/github/stars/hyeon9698/LOWN.svg?style=social) |arXiv|
 
 
 
